@@ -1,0 +1,9 @@
+{
+  "name": "genpark-raft-leader-election-consensus-kernel-skill",
+  "version": "1.0.0",
+  "description": "Raft consensus state machine managing election timers, randomized backoff, candidate vote counting, and leader quorum transition.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
